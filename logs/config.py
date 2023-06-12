@@ -10,7 +10,7 @@ level_log = {
     'event': 21,
     'warning': 30,
     'error': 40,
-    'exception': 50
+    'exception': 50,
 }
 
 # Настройка цветов для уровней логирования
